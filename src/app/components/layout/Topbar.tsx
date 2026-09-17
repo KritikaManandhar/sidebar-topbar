@@ -20,7 +20,7 @@ export type TopbarProps = {
 export default function Topbar({
   userName = "Admin",
   userRole = "Admin",
-  avatarSrc = "/images/avatar.svg",
+  avatarSrc = "/images/avatar.png",
   notificationsCount = 8,
   messagesCount = 5,
   onMenuClick,
