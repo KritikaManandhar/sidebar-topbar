@@ -1,0 +1,18 @@
+<svg width="88" height="80" viewBox="0 0 88 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="88" height="80" rx="10" fill="url(#bg-grad)"/>
+  <circle cx="68" cy="24" r="10" fill="#F5B921" opacity="0.9"/>
+  <!-- Mountain peaks -->
+  <path d="M12 64L36 28L54 52L66 36L78 64H12Z" fill="url(#mountain-grad)"/>
+  <path d="M36 28L44 40L32 44L36 28Z" fill="#FFFFFF" opacity="0.8"/>
+  <path d="M66 36L72 46L62 48L66 36Z" fill="#FFFFFF" opacity="0.8"/>
+  <defs>
+    <linearGradient id="bg-grad" x1="0" y1="0" x2="88" y2="80" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1E3A8A"/>
+      <stop offset="1" stop-color="#0F172A"/>
+    </linearGradient>
+    <linearGradient id="mountain-grad" x1="45" y1="28" x2="45" y2="64" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3B82F6"/>
+      <stop offset="1" stop-color="#1D4ED8"/>
+    </linearGradient>
+  </defs>
+</svg>
